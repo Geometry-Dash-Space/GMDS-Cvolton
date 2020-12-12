@@ -1,4 +1,4 @@
-# GMDprivateServer
+# GMDS-Cvolton
 ## Geometry Dash Private Server
 Basically a Geometry Dash Server Emulator
 
@@ -21,3 +21,7 @@ Using this for cloud save encryption - https://github.com/defuse/php-encryption 
 Jscolor (color picker in packCreate.php) - http://jscolor.com/
 
 Most of the stuff in generateHash.php has been figured out by pavlukivan and Italian APK Downloader, so credits to them
+
+### GMDS
+
+This fork is for Geometry Dash Space, an upcoming evolution GDPS.
